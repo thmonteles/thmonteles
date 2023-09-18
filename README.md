@@ -3,7 +3,7 @@
 ```python
 def hello_world():
     print("Olá, Mundo!")
-
+```
 ### Linguagens que estudo
 
 <div align="left">
